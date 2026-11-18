@@ -1,0 +1,348 @@
+{
+  "sourceTitle": "AI短剧对标账号池",
+  "sourceUrl": "https://cursor.com/canvas/store-37ab279d-3304-454a-b064-4fc6d42ced7d/d06b3b45-2dea-4296-b361-cd6a5a2fd327",
+  "exportedAt": "2026-11-18 10:02:43 Asia/Shanghai",
+  "count": 40,
+  "batchCounts": {
+    "一批": 16,
+    "二批": 12,
+    "三批": 10,
+    "四批": 2
+  },
+  "trackCounts": {
+    "头部精品": 20,
+    "怪异特异": 16,
+    "观察": 4
+  },
+  "fields": {
+    "name": "名字",
+    "homepage": "主页链接（看板原样；无稳定 MS4 的为搜索入口）",
+    "homepageKind": "user=账号主页，search=看板提供的搜索入口，未编造主页",
+    "track": "分轨/分组（头部精品 / 怪异特异 / 观察）",
+    "batch": "入池批次",
+    "note": "看板备注原文，不是已收藏作品列表"
+  },
+  "notes": "仅含已锁入池账号，不含日扫候选。未附作品/视频条目，请勿把备注里的剧名当作已收藏视频。未改原看板。",
+  "accounts": [
+    {
+      "name": "不吃榨菜AIGC",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAAKVoSTXiyQHzLWpX9vVZ-DhEGeB_lM6A325fijkZw3wLOqr9dC9QzRCqrE66UDjV",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《非妖哉》最新仍「愚民阿昌：就是你们心不够诚，我才变不出来！」；抖音主页77.3万/10作（较11/17 +0.4万，作品持平）；蝉妈77.2万，近7天1作+4万，简介仍写第五集制作中（6小时内更新；主页简介截断未见该句）；抖音号29312191210；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "白袋子",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAgHDup24uegzJiRzlSD0Oy68di9z75WInX1P8aePmX7s",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《零号档案》；抖音号BAIDAIZI；抖音主页161.2万/19作微降；飞瓜作品26口径不一；2026-11-09",
+      "homepageKind": "user"
+    },
+    {
+      "name": "命比梦长",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAA20mkQpxSpn2Ymy1ZUUybGM-nAyko_boihPu86sl2V-DKMlCDEE4kjk-VPWF7dxHI",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "主页昵称命比梦长「万木生春」；抖音主页147.3万（较11/17 +0.1万）；作品数今日两次显27，暂沿用51；最新仍「#ta们的金鸡时刻」及《人生请假公司》，置顶《万物生》第01集；蝉妈147.3万近7天0作+1.8万（6小时内更新）；抖音号43515983999；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "Mx-Shell",
+      "homepage": "https://www.douyin.com/search/Mx-Shell%20丧尸清道夫",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《丧尸清道夫》；飞瓜73.1万/84作，近7天1作-625；主页未实看；2026-11-09",
+      "homepageKind": "search"
+    },
+    {
+      "name": "AIGC十三",
+      "homepage": "https://www.douyin.com/search/AIGC十三%20天枢防线",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《天枢防线》抖音独家连载中；飞瓜60.8万/56作，近7天-1213；主页未实看；2026-11-09",
+      "homepageKind": "search"
+    },
+    {
+      "name": "草帽小蔡",
+      "homepage": "https://www.douyin.com/search/草帽小蔡%20浮光",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《浮光》《元启录》",
+      "homepageKind": "search"
+    },
+    {
+      "name": "可乐居士ColaJuice",
+      "homepage": "https://www.douyin.com/search/可乐居士%20蛛丝",
+      "track": "怪异特异",
+      "batch": "一批",
+      "note": "《杜子春》《蛛丝》",
+      "homepageKind": "search"
+    },
+    {
+      "name": "热心市民杨生",
+      "homepage": "https://www.douyin.com/search/热心市民杨生",
+      "track": "怪异特异",
+      "batch": "一批",
+      "note": "议题短刺；《合格した彼女》",
+      "homepageKind": "search"
+    },
+    {
+      "name": "站立起来的影子",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAfxQ8k1emr4X5DUfcvK77AMTpiDfWTogC-ilQNGxGzF8",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "最新仍《AI短片〈以后就幸福了〉》、次新《我能看见鬼》重制版；抖音主页153.7万/13作持平；蝉妈153.7万近7天1作+1.6万、赞+75.4万（1天内更新）；抖音号1352605236；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "2XLabs",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAvEgyozunKqiDD5yrm6N5K7LeaiTEpkRqNz7lai-9RRjtl2OrAkrsTg4tOcybEiNC",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《合龙》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "WAI-你听",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAXDrx05byDOfwDcQvEVWzZK8AjEEgWvA6Z4k2wFR78r37M2fs1WX_QWFRJIHV9R2N",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《纸手机》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "DiDi_OK",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAO3DCIeUazKJrMXphUhFfgkvksgw3QYh9iA00yFpm8_U",
+      "track": "怪异特异",
+      "batch": "一批",
+      "note": "规则寓言三部曲",
+      "homepageKind": "user"
+    },
+    {
+      "name": "Zerkalo",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAO0x2YufrL-kZ8BF8Lbl1V4mPyXp9jp4MGzQjzB2Ul8AeY8qoknTJ381M01m78c9c",
+      "track": "怪异特异",
+      "batch": "一批",
+      "note": "《聊斋·丐仙》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "究极瓜铭",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAQl5BpGXKWGp8hA1SuoQy6DRJPeUCa8VjAijcQZL8GNzLI0iCgc2X_1tZQ_j3CaWM",
+      "track": "怪异特异",
+      "batch": "一批",
+      "note": "《钟馗嫁妹》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "编导李让",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAPg0ctL2P0J9FMoDoYdFJyxuSH4hA9SDCbZiqTQTfDLs",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《告别》；抖音主页88.5万/86作（较11/16 粉持平，作品+1）；最新「影之刃零 二创电影之七巧迷梦」；次新金鸡电影AI极客松“杰出视效”荣誉、作品《回溯》；蝉妈88.5万近7天1作+637（1天内更新）；抖音号biandaolirang；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "旧梦留声机",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAHzQqEC3IyGSDuYkOv9bFe8mYxXTZh8GsX60lINFHm-3gkfiGJG5EUkaccHJdMQr4",
+      "track": "头部精品",
+      "batch": "一批",
+      "note": "《归栖》；抖音主页112.3万/54作（较11/17 粉持平，作品+1）；最新「那个坑最终埋葬了病魔…」；次新「哪怕路途艰险，公平正义必达！」；抖音号50880435438；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "淮左｜提示炼金师",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAASWWqIg59ytFXTdkXWYX1lzpGCAxf7CDMpipVYLpu3gecKmRd7_mDzw7EBpWYt0_5",
+      "track": "头部精品",
+      "batch": "二批",
+      "note": "《相骨》第三集仍制作中（置顶文案称很快见面）；抖音主页55.4万持平；作品数今日两次显16，暂沿用20；昵称「淮左 | 万木生春」；非置顶最新仍#ta们的金鸡时刻；蝉妈55.4万近7天1作-514（3天内更新）；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "画心月狐",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAA9mYw_wu71gRy0XoSfpXC-YrNtKUkd-WallnCm1gjYNTtoLWx1NuRaR_hrpHiNuJV",
+      "track": "头部精品",
+      "batch": "二批",
+      "note": "《聊斋系列》；抖音主页108.1万（较11/17 +0.1万）；作品数今日两次显32（昨36），暂沿用36；最新仍【自制动画】聊斋系列之《恒娘》；次新可见《庚娘》；置顶《商三官》《画皮》《丑狐》；蝉妈108.0万近7天2作+358（1小时内更新）；抖音号huaxinyuehu1；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "我们来自月球",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAMgqfH2PbnqH4N9jiPSDlyo82ThPCHnr7UFgZo3gYGiMUSG5sDKc-WTcK9J8TwNBb",
+      "track": "头部精品",
+      "batch": "二批",
+      "note": "少年宫",
+      "homepageKind": "user"
+    },
+    {
+      "name": "六旬老汉赵大爷",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAACeqh8Iv5TweXyuwh-7Do047iQ04FiZ0nFtsZxGlScZRv3_SNiUFuq_1ADJ5wknA9",
+      "track": "头部精品",
+      "batch": "二批",
+      "note": "《赛博英雄传》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "钟也棠",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAl9igOrhcrcMbBmNDKReyfei3zHJynmephmtCui2dlxY",
+      "track": "怪异特异",
+      "batch": "二批",
+      "note": "《百姽录》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "寇小胆",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAA3G-h8vhr8BRFE45mSTsWj56w728zFhuFqDUxrdB6E4eBIxZtMH7yBvYiTx8ABZwP",
+      "track": "怪异特异",
+      "batch": "二批",
+      "note": "《今晚过秦岭》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "编导厉岑",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAHhHdOT0hE9G-8AbnlyUo-JMrTnCTMNHjeW6yI5kfDPT38o4Takviyn2Z9P6QxUb-",
+      "track": "头部精品",
+      "batch": "二批",
+      "note": "《余烬之后》连载中；抖音主页72.4万持平；作品数今日两次显41（基线43），暂沿用43；最新仍《余烬之后（下）》第十二集：新的开始；蝉妈72.4万近7天1作-2110（1天内更新）；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "AIGC耳鸣",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAmJqhWEQAt0lxg7BHxE-oHrBBzhWrGC2QIoKUICXcDh8",
+      "track": "观察",
+      "batch": "二批",
+      "note": "《我今年18，女儿19》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "贝拉游记（AIGC）",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAZH5EuxAq_sDPS9nnSVNaAN33xVz8FHcpjfrlbjUNXmmxAzcBAbjYI4RNpBr3_UxV",
+      "track": "怪异特异",
+      "batch": "二批",
+      "note": "议题短刺",
+      "homepageKind": "user"
+    },
+    {
+      "name": "AIGC大宝剑",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAZVR65zFg_-TNNjkdrEFgnxpfgkPmIREPRmiPt6pL-OOc5OH40czXwNs2q2UULA9o",
+      "track": "怪异特异",
+      "batch": "二批",
+      "note": "《左道》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "青瓜蛋",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAArHzuYfCqQr65FOmi8-nshBsusJ2s3He9SyicV3OnSi4zJLRYhgklec4eUEUwOtL1",
+      "track": "观察",
+      "batch": "二批",
+      "note": "《问苍生》认号未完全稳",
+      "homepageKind": "user"
+    },
+    {
+      "name": "无敌星橙",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAjjV9zOiCkfCXBqUdZMlG-AdMJ3zmOjnx3bulgR1H4Dw",
+      "track": "怪异特异",
+      "batch": "二批",
+      "note": "《愿力司》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "潘鱼晏",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAApxuH1i8cKMWQV53NUOFgei1krqzSDMIE76oXgJ3aG-zo_g7oB-4_3ssrqbPFNj01",
+      "track": "头部精品",
+      "batch": "三批",
+      "note": "抖音主页283.0万/276作（较11/17 +0.3万，作品持平）；最新仍《反相之地》第九集；蝉妈282.7万近7天0作+2.5万，简介写「第十集篇幅较长 档期会提前公示」（1天内更新）；抖音号panpppan；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "鸡电清",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAFElt-Lk02J5Yg8O5NyEKpBk_ahv8kTDNWsZPsrnjdwg",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "《不羡羊》《无瞳》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "CHunye",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAA8nZoqoFDlCk3WBkGSLBDkh8JbsgE_-G77QYan7WXMoh3VMWCK9SYDfRyJiqkcNav",
+      "track": "头部精品",
+      "batch": "三批",
+      "note": "《渡骸》连载；抖音主页40.4万/18作（较11/16 作品+1）；非置顶最新仍《渡骸》×《明日之后》，次新【渡骸】第十一集（未见新标题）；蝉妈40.4万，近7天1作-361（1天内更新）；抖音号46777230981；2026-11-17",
+      "homepageKind": "user"
+    },
+    {
+      "name": "葵的精神世界",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAA6ZD1jc7FoIImFo23lTCVpetVqqrFFDRwK3DCJG7S2EA",
+      "track": "观察",
+      "batch": "三批",
+      "note": "偏商业经营；抖音主页366.1万/159作（较11/17 -0.1万，作品持平）；最新仍「这是一场只属于爷孙俩的冒险啊！」；蝉妈366.1万近7天0作-4855（6小时内更新）；抖音号KUI19980505；2026-11-18",
+      "homepageKind": "user"
+    },
+    {
+      "name": "孙布尔",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAcM-7zHcFlzDPxc6VC4Ho3xg5xsUbnBsNiMVin-JeMQA",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "《断鞘》百花最佳短片",
+      "homepageKind": "user"
+    },
+    {
+      "name": "导演浩然",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAocuDhgjFCct66nup2X6hCBibrxxO3L2PvrzJgwveG49kObFo3SGWMXYvUp_tSXhM",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "《过门不入》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "泽柏",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAXYBda_gnB8StrpOj1-EnqH5PXMDzXWqLgL-q_NifQUM5OcYReKOUJX-3Ogg5d3bW",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "《惧相》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "迷九探影",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAKeGpcAMCRzXJlEOVro6qv53eYD-I7cy_RM-1pjeE-I8",
+      "track": "头部精品",
+      "batch": "三批",
+      "note": "《人间无常客》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "黑核",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAC_MsBLlzAUUE9JHDnSsCBq6HgTWLfw7OMCBlAHDqXrI",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "《不倒车》原作",
+      "homepageKind": "user"
+    },
+    {
+      "name": "蒙太神奇",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAuIfH7StljI6QLBfo8HDZrsj-9Z91S9ie6_iQZZIlosv5uWQq3LlCbB6fBRUpjwd9",
+      "track": "怪异特异",
+      "batch": "三批",
+      "note": "404小队《身在其中》",
+      "homepageKind": "user"
+    },
+    {
+      "name": "鹤灵Healing",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAC-X7MyN_lrrbq7rreSyUUBLlI_eqcDQrhEOW_JHXmk0",
+      "track": "观察",
+      "batch": "四批",
+      "note": "Gothicmoonchild；《榴下》等；AI辅+实拍，美妆底号",
+      "homepageKind": "user"
+    },
+    {
+      "name": "别闹了豆刨",
+      "homepage": "https://www.douyin.com/user/MS4wLjABAAAAnwuV8Cx253iFwA6b0wEMHWQ9-DYLrudG9PJrRgK8tis",
+      "track": "头部精品",
+      "batch": "四批",
+      "note": "抖音号1980630976；《别闹了法姥》新作「好言难劝恋爱脑?」；次新「医院惊魂？」；抖音主页385.3万/42作（较11/17 +0.7万，作品+1）；蝉妈384.9万近7天2作+12.5万（1天内更新）；2026-11-18",
+      "homepageKind": "user"
+    }
+  ]
+}
